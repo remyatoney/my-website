@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^(AboutMe|Recipes|MainPage|Contact)$ $1.php [NC,L]
